@@ -1,4 +1,4 @@
-# generadortareas
+# Control de gastos
 
 ## Project setup
 ```
